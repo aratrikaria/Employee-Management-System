@@ -1,1 +1,5 @@
-PROJECT DESCRIPTION
+## LEARNING MANAGEMENT AND EMPLOYEE MANAGEMENT SYSTEM ENCAPSULATED WITH CUSTOMISED SOCIAL NETWORKING AND FILE SHARING SYSTEM
+
+In the proposed system, we have developed an application which helps in file sharing. The application is modeled in such a way that there exists a hierarchical classification of employees. A root is at the topmost position in the organization with levels below him. The application enables a user to create files and share them with other users depending upon his or her position in the hierarchy. This application encapsulates several security measures integrated with the flexibility of sharing files easily with a single or multiple users without the use of ‘email’. This application is simple, easy to use and secure. Security of files in implemented by the use of cryptography in various file modes. In this paper, we have created an application which aids in file sharing within an organization coupled with a security system.
+
+Index Terms: Hierarchical position, File sharing, flexibility in sharing, replacement of email in organization, file security security of files by different modes, encryption.
